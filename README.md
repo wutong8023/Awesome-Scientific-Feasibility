@@ -4,7 +4,7 @@
                     integrity="sha384-Bx8BzV1dCzBv44y4r3FfdoDwcxuEtQ6WivZp9Vv9IwL4A6YET3n98I8yvQEmTl1n"
                     crossorigin="anonymous"
                     />
-                    
+
                 # Scientific Feasibility (SciFy) Literature 
 This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).

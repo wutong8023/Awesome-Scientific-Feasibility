@@ -38,8 +38,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
                     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
                     integrity="sha384-Bx8BzV1dCzBv44y4r3FfdoDwcxuEtQ6WivZp9Vv9IwL4A6YET3n98I8yvQEmTl1n"
                     crossorigin="anonymous"
-                    />
-                    
+                    />\n
                 """
 
     str_outline = font_icon
