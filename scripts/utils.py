@@ -112,8 +112,9 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += '\n```'
     md_str += "</details>"
 
-
-    md_str += f'<details><summary>![](https://fontawesome.com/icons/bars?f=classic&s=solid)</summary>'
+    #
+    md_str += f'<details><summary>' \
+              f'<img src=https://fontawesome.com/icons/bars?f=classic&s=solid height="20" align="bottom"></summary>'
     md_str += f"<pre>```{entry['ID']}```"
     
     # md_str += '<br>\n'
