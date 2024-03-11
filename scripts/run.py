@@ -33,20 +33,17 @@ def plot_titles(titles):
 
 def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False):
     # todo: could be removed
-    external_link = "[![](https://img.shields.io/badge/Awesome_Continual_Learning-yellow)](https://github.com/wutong8023/Awesome_Continual_Learning.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Few_Shot_learning-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Information_Extraction-blue)](https://github.com/wutong8023/Awesome_Information_Extraction.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Ideas-orange)](https://github.com/wutong8023/Awesome_Ideas.git)\n\n"
+    font_icon = """<link 
+                    rel="stylesheet" 
+                    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+                    integrity="sha384-Bx8BzV1dCzBv44y4r3FfdoDwcxuEtQ6WivZp9Vv9IwL4A6YET3n98I8yvQEmTl1n"
+                    crossorigin="anonymous"
+                    />
+                    
+                """
 
-    if filename.startswith("" + your_research_topic + "4nlp"):
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature in NLP \n"
-    elif filename.startswith("" + your_research_topic + "4cv"):
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature in CV \n"
-    else:
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature \n"
+    str_outline = font_icon
+    str_outline += "# " + your_research_topic_full_name + " Literature \n"
 
     str_outline += "This repository is maintained by [{author_info}]({personal_link}). " \
                    "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). \n" \
