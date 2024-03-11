@@ -12,7 +12,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/venue/README.md#hyperlink)
 - [![](https://img.shields.io/badge/AAAI-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/venue/README.md#aaai)
 ## Hyperlink 
-- [[Overview]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md)
+ - [Overview](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md)
  - [Summary](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./)
  - [Application Area](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/application)
  - [Top Author](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/author)

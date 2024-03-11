@@ -11,7 +11,7 @@ This page categorizes the literature by the **Top Author**.
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/author/README.md#hyperlink)
 ## Hyperlink 
-- [[Overview]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md) -- [Homepage](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md)
+ - [Overview](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/README.md)
  - [Summary](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./)
  - [Application Area](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/application)
  - [Top Author](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/author)
