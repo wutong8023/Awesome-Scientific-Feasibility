@@ -30,4 +30,4 @@ Gholamreza Haffari and
 Guilin Qi and
 Yujin Zhu and
 Guoqiang Xu* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L4-L24)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://fontawesome.com/icons/bars?f=classic&s=solid height="20" align="bottom"></summary><pre>```WuLLHQZX21```
+```</details><details><summary><img src="https://fontawesome.com/icons/bars?f=classic&s=solid" height="20" align="bottom"></summary><pre>```WuLLHQZX21```
