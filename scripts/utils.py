@@ -142,7 +142,7 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
                     continue
             
             if key == "booktitle" or key == "journal":
-                if any(DB.entries[i][key].replace("Proceedings of ", "").startswith(elem) for elem in item):
+                if any(DB.entries[i][key].replace("Proceedings of ", "").replace("Findings of ", "").startswith(elem) for elem in item):
                     str_md = get_md_entry(DB, DB.entries[i], add_comments)
                     list_entry.update({str_md: DB.entries[i]['year']})
             elif key == "author":

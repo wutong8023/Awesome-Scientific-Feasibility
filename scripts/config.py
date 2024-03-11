@@ -19,7 +19,9 @@ base_link = f"https://github.com/{user_id}/{repo_name}/{branch_name}/"
 # user customized taxonomy
 fined_taxonomy = {
     "Conference": ["ACL", "EMNLP", "NAACL", "COLING", "EACL", "CoNLL", "ICML", "ICLR", "NeurIPS", "AISTATS", "AAAI",
-                   "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV"],
+                   "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV",
+                   "LOUHI@EACL",
+                   ],
 
     "Journal": [
         ["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
@@ -36,13 +38,13 @@ fined_taxonomy = {
                      "Technical Report", "Other Type"],
 
     # 2: Application
-    "Application Area": ["Material Science", "Artificial Intelligence", "Quantum Computing", "Other Area"],
+    "Application Area": ["Material Science", "Artificial Intelligence", "Quantum Computing", "Biomedical", "Other Area"],
 
     # 3: Research Question
     "RQs": {"Multi-Agent Cooperation", "Others RQs"},
 
     # 4: Backbone Model
-    "Foundation Model": ["ChatGPT", "LLaMA", "Other Model"],
+    "Foundation Model": ["ChatGPT", "LLaMA", "T5", "Other Model"],
 
     # 5: Dataset Format
     "Dataset Format": ["Multi-choice Classification",
