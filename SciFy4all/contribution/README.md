@@ -48,25 +48,27 @@ Kai Shu* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/bl
 Grace Kim and
 Aniruddh Sriram and
 Greg Durrett and
-Eunsol Choi* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L300-L318)<br> </details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2305-11859```<br>
+Eunsol Choi* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L300-L318)<br> ```In this work, we present the first fully automated pipeline to check real-world claims by retrieving raw evidence from the web. We restrict our retriever to only search documents available prior to the claim's making, modeling the realistic scenario where an emerging claim needs to be checked. Our pipeline includes five components: claim decomposition, raw document retrieval, fine-grained evidence retrieval, claim-focused summarization, and veracity judgment.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2305-11859```<br>
 
 - [![](https://img.shields.io/badge/SIGIR-2023-blue)](https://doi.org/10.1145/3539618.3592049) [**Read it Twice: Towards Faithfully Interpretable Fact Verification
 by Revisiting Evidence**](https://doi.org/10.1145/3539618.3592049) , <br> by *Xuming Hu and
 Zhaochen Hong and
 Zhijiang Guo and
 Lijie Wen and
-Philip S. Yu* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L320-L339)<br> </details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```HuHGWY23```<br>
+Philip S. Yu* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L321-L340)<br> ```In light of this, we propose a fact verification model named ReRead to retrieve evidence and verify claim that: (1) Train the evidence retriever to obtain interpretable evidence (i.e., faithfulness and plausibility criteria); (2) Train the claim verifier to revisit the evidence retrieved by the optimized evidence retriever to improve the accuracy. 
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```HuHGWY23```<br>
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2304.02769) [**Low-Shot Learning for Fictional Claim Verification**](https://doi.org/10.48550/arXiv.2304.02769) , <br> by *Viswanath Chadalapaka and
 Derek Nguyen and
 JoonWon Choi and
 Shaunak Joshi and
-Mohammad Rostami* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L342-L360)<br> ```We propose a low-shot learning model for fictional claim verification that uses a small number of examples to make predictions. 
+Mohammad Rostami* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L343-L361)<br> ```We propose a low-shot learning model for fictional claim verification that uses a small number of examples to make predictions. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2304-02769```<br>
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.08914) [**ExClaim: Explainable Neural Claim Verification Using Rationalization**](https://doi.org/10.48550/arXiv.2301.08914) , <br> by *Sai Gurrapu and
 Lifu Huang and
-Feras A. Batarseh* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L385-L401)<br> ```We propose an explainable neural claim verification model that uses rationalization to generate explanations for the predictions. 
+Feras A. Batarseh* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L386-L402)<br> ```We propose an explainable neural claim verification model that uses rationalization to generate explanations for the predictions. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2301-08914```<br>
 
 - [![](https://img.shields.io/badge/SIGIR-2023-blue)](https://doi.org/10.1145/3539618.3591879) [**End-to-End Multimodal Fact-Checking and Explanation Generation: A
@@ -74,7 +76,7 @@ Challenging Dataset and Models**](https://doi.org/10.1145/3539618.3591879) , <br
 Aditya Shah and
 Lichao Sun and
 Jin{-}Hee Cho and
-Lifu Huang* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L404-L423)<br> ```We present a challenging dataset and models for end-to-end multimodal fact-checking and explanation generation. 
+Lifu Huang* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L405-L424)<br> ```We present a challenging dataset and models for end-to-end multimodal fact-checking and explanation generation. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```YaoS0CH23```<br>
 
 - [![](https://img.shields.io/badge/Findings_of_NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.findings-naacl.6) [**MultiVerS: Improving scientific claim verification with weak supervision
@@ -143,7 +145,7 @@ Hannaneh Hajishirzi* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Fe
 Attention Networks**](https://doi.org/10.18653/v1/p19-1244) , <br> by *Jing Ma and
 Wei Gao and
 Shafiq R. Joty and
-Kam{-}Fai Wong* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L363-L382)<br> ```We propose a hierarchical attention network for scientific claim verification that uses sentence-level evidence embeddings to make predictions. 
+Kam{-}Fai Wong* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L364-L383)<br> ```We propose a hierarchical attention network for scientific claim verification that uses sentence-level evidence embeddings to make predictions. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```MaGJW19```<br>
 
 ## Resource
