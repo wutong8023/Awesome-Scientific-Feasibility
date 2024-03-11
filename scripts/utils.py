@@ -112,8 +112,8 @@ def get_md_entry(DB, entry, add_comments=True):
             md_str += '\n```'
     md_str += "</details>"
 
-    # img_link = os.path.join(base_link, "scripts/svg/copy_icon.png")
-    md_str += f'<details><summary><i class="fas fa-heart"></i></summary>'
+
+    md_str += f'<details><summary>![](https://fontawesome.com/icons/bars?f=classic&s=solid)</summary>'
     md_str += f"<pre>```{entry['ID']}```"
     
     # md_str += '<br>\n'

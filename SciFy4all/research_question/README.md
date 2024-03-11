@@ -1,11 +1,4 @@
-<link 
-                    rel="stylesheet" 
-                    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
-                    integrity="sha384-Bx8BzV1dCzBv44y4r3FfdoDwcxuEtQ6WivZp9Vv9IwL4A6YET3n98I8yvQEmTl1n"
-                    crossorigin="anonymous"
-                    />
-
-                # Scientific Feasibility (SciFy) Literature 
+# Scientific Feasibility (SciFy) Literature 
 This repository is maintained by [Tongtong Wu](https://wutong8023.site). Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
@@ -37,4 +30,4 @@ Gholamreza Haffari and
 Guilin Qi and
 Yujin Zhu and
 Guoqiang Xu* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L4-L24)<br> ```Add a brief note under the bib entry
-```</details><details><summary><i class="fas fa-heart"></i></summary><pre>```WuLLHQZX21```
+```</details><details><summary>![](https://fontawesome.com/icons/bars?f=classic&s=solid)</summary><pre>```WuLLHQZX21```
