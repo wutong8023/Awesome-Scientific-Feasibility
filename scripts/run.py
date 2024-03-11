@@ -69,7 +69,7 @@ def get_hyperlink(hyperlinks, mapping_name):
     hyperlinks = sorted(hyperlinks)
 
     # Note: please check the branch name carefully!
-    str_hyperlink += f" - [Overview]({base_link}README.md)\n"
+    # str_hyperlink += f" - [Overview]({base_link}README.md)\n"
     for i, item in enumerate(hyperlinks):
         str_hyperlink += f" - [{mapping_name[item]}]({base_link + your_research_topic}4all/{item})\n"
 
@@ -90,7 +90,8 @@ def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles
 # check repetition
 check_repetition()
 
-dir_path = ["./",
+dir_path = [
+            "./",
             "contribution",
             "time",
             "application",
@@ -103,7 +104,7 @@ dir_path = ["./",
 dir_pat_index = {dir_x: i for i, dir_x in enumerate(dir_path)}
 
 mapping_name = {
-    "./": "Summary",
+    "./": "Overview",
     "venue": "Published Venue",
     "time": "Published Time",
     "application": "Application Area",
