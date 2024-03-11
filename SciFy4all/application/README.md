@@ -112,7 +112,7 @@ Bailey Kuehl and
 Arman Cohan and
 Iz Beltagy and
 Lucy Lu Wang and
-Hannaneh Hajishirzi* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L129-L149)<br> ```We introduce SciFact-Open, a new dataset for open-domain scientific claim verification. SciFact-Open contains 1,000 scientific claims and 10,000 abstracts from the research literature, and requires models to select abstracts containing evidence that SUPPORTS or REFUTES a given scientific claim. 
+Hannaneh Hajishirzi* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L129-L149)<br> ```Moving to this open-domain evaluation setting, however, poses unique challenges; in particular, it is infeasible to exhaustively annotate all evidence documents. In this work, we present SciFact-Open, a new test collection designed to evaluate the performance of scientific claim verification systems on a corpus of 500K research abstracts. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```WaddenLKCBWH22```<br>
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2202.02646) [**RerrFact: Reduced Evidence Retrieval Representations for Scientific
