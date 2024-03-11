@@ -113,9 +113,9 @@ def get_md_entry(DB, entry, add_comments=True):
     md_str += "</details>"
 
     #
-    md_str += f'<details><summary>' \
-              f'<i class="fa-solid fa-bars"></i></summary>'
-    md_str += f"<pre>```{entry['ID']}```"
+    # md_str += f'<details><summary>' \
+    #           f'<i class="fa-solid fa-bars"></i></summary>'
+    # md_str += f"<pre>```{entry['ID']}```"
     
     # md_str += '<br>\n'
     return md_str
