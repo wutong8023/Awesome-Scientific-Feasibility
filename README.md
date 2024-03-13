@@ -16,7 +16,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/LOUHI@EACL-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#louhi@eacl)
 - [![](https://img.shields.io/badge/Psychological_review-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#psychological-review)
 - [![](https://img.shields.io/badge/The_Oxford_Handbook_of_Thinking_and_Reasoning-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#the-oxford-handbook-of-thinking-and-reasoning)
-- [![](https://img.shields.io/badge/arXiv-7-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-11-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#arxiv)
 ## Hyperlink 
  - [Overview](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./)
  - [Application Area](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/application)
@@ -144,6 +144,12 @@ Jimmy Lin* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/
 
 ## arXiv
 
+- [![](https://img.shields.io/badge/CoRR-2024-blue)](https://doi.org/10.48550/arXiv.2401.06853) [**Large Language Models Can Learn Temporal Reasoning**](https://doi.org/10.48550/arXiv.2401.06853) , <br> by *Siheng Xiong and
+Ali Payani and
+Ramana Kompella and
+Faramarz Fekri* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L495-L511)<br> ```While large language models (LLMs) have demonstrated remarkable reasoning capabilities, they are not without their flaws and inaccuracies. Recent studies have introduced various methods to mitigate these limitations. Temporal reasoning (TR), in particular, presents a significant challenge for LLMs due to its reliance on diverse temporal expressions and intricate contextual details. In this paper, we propose TG-LLM, a new framework towards language-based TR. To be specific, we first teach LLM to translate the context into a temporal graph (TG). A synthetic dataset, which is fully controllable and requires minimal supervision, is constructed for fine-tuning on this graph translation task. We confirm in experiments that the capability of TG extraction learned on our dataset can be transferred to other TR tasks and benchmarks. On top of that, we guide LLM to perform symbolic reasoning over the TG via Chain of Thoughts (CoTs) bootstrapping and special data augmentation strategies. We observe that CoTs with symbolic reasoning bring more consistent and reliable results than those using free-form text.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2401-06853```<br>
+
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2310.09754) [**EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification**](https://doi.org/10.48550/arXiv.2310.09754) , <br> by *Huanhuan Ma and
 Weizhi Xu and
 Yifan Wei and
@@ -173,6 +179,14 @@ Lifu Huang and
 Feras A. Batarseh* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L386-L402)<br> ```We propose an explainable neural claim verification model that uses rationalization to generate explanations for the predictions. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2301-08914```<br>
 
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2305.15541) [**Harnessing the Power of Large Language Models for Natural Language
+to First-Order Logic Translation**](https://doi.org/10.48550/arXiv.2305.15541) , <br> by *Yuan Yang and
+Siheng Xiong and
+Ali Payani and
+Ehsan Shareghi and
+Faramarz Fekri* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L514-L533)<br> ```Translating natural language sentences to first-order logic (NL-FOL translation) is a longstanding challenge in the NLP and formal logic literature. This paper introduces LogicLLaMA, a LLaMA-7B model fine-tuned for NL-FOL translation using LoRA on a single GPU. LogicLLaMA is capable of directly translating natural language into FOL rules, which outperforms GPT-3.5. LogicLLaMA is also equipped to correct FOL rules predicted by GPT-3.5, and can achieve similar performance as GPT-4 with a fraction of the cost. This correction ability was achieved by a novel supervised fine-tuning (SFT) + reinforcement learning with human feedback (RLHF) framework, which initially trains on synthetically perturbed NL-FOL pairs to encourage chain-of-thought reasoning and then fine-tunes with RLHF on GPT-3.5 outputs using a FOL verifier as the reward model. To train LogicLLaMA, we present MALLS (large language Model generAted NL-FOL pairS), a dataset of 34K high-quality and diverse sentence-level NL-FOL pairs collected from GPT-4. The dataset was created by implementing a pipeline that prompts GPT-4 for pairs, and dynamically adjusts the prompts to ensure the collection of pairs with rich and diverse contexts at different levels of complexity, and verifies the validity of the generated FOL rules.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2305-15541```<br>
+
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2202.02646) [**RerrFact: Reduced Evidence Retrieval Representations for Scientific
 Claim Verification**](https://arxiv.org/abs/2202.02646) , <br> by *Ashish Rana and
 Deepanshu Khanna and
@@ -191,3 +205,12 @@ Kyle Lo* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/bl
 Claim Verification**](https://arxiv.org/abs/2104.11572) , <br> by *Xia Zeng and
 Arkaitz Zubiaga* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L175-L191)<br> ```We present a step-by-step binary classification model for scientific claim verification that predicts the stance of a given scientific claim by learning to predict the abstract and rationale that support the stance. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2104-11572```<br>
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2106.11417) [**Interpretable Model-based Hierarchical Reinforcement Learning using
+Inductive Logic Programming**](https://arxiv.org/abs/2106.11417) , <br> by *Duo Xu and
+Faramarz Fekri* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L555-L570)<br> ```Recently deep reinforcement learning has achieved tremendous success in wide ranges of applications. However, it notoriously lacks data-efficiency and interpretability. Data-efficiency is important as interacting with the environment is expensive. Further, interpretability can increase the transparency of the black-box-style deep RL models and hence gain trust from the users. In this work, we propose a new hierarchical framework via symbolic RL, leveraging a symbolic transition model to improve the data-efficiency and introduce the interpretability for learned policy. This framework consists of a high-level agent, a subtask solver and a symbolic transition model. Without assuming any prior knowledge on the state transition, we adopt inductive logic programming (ILP) to learn the rules of symbolic state transitions, introducing interpretability and making the learned behavior understandable to users. In empirical experiments, we confirmed that the proposed framework offers approximately between 30\% to 40\% more data efficiency over previous methods.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-2106-11417```<br>
+
+- [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1904.01554) [**Learning Algorithms via Neural Logic Networks**](http://arxiv.org/abs/1904.01554) , <br> by *Ali Payani and
+Faramarz Fekri* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L573-L587)<br> ```We propose a novel learning paradigm for Deep Neural Networks (DNN) by using Boolean logic algebra. We first present the basic differentiable operators of a Boolean system such as conjunction, disjunction and exclusive-OR and show how these elementary operators can be combined in a simple and meaningful way to form Neural Logic Networks (NLNs). We examine the effectiveness of the proposed NLN framework in learning Boolean functions and discrete-algorithmic tasks. We demonstrate that, in contrast to the implicit learning in MLP approach, the proposed neural logic networks can learn the logical functions explicitly that can be verified and interpreted by human. In particular, we propose a new framework for learning the inductive logic programming (ILP) problems by exploiting the explicit representational power of NLN. We show the proposed neural ILP solver is capable of feats such as predicate invention and recursion and can outperform the current state of the art neural ILP solvers using a variety of benchmark tasks such as decimal addition and multiplication, and sorting on ordered list.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```abs-1904-01554```<br>

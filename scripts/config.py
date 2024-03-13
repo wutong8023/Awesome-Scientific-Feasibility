@@ -44,7 +44,14 @@ fined_taxonomy = {
     "Application Area": ["Material Science", "Artificial Intelligence", "Quantum Computing", "Biomedical", "Other Area"],
 
     # 3: Research Question
-    "RQs": {"Multi-Agent Cooperation", "Inductive Reasoning", "Counterfactual Reasoning", "Others RQs"},
+    "RQs": {"Multi-Agent Cooperation",
+            "Inductive Reasoning",
+            "Counterfactual Reasoning",
+            "Temporal Reasoning",
+            "First-Order Logic",
+            "Inductive Logic Programming",
+            "Neural Logic Networks",
+            "Others RQs"},
 
     # 4: Backbone Model
     "Foundation Model": ["ChatGPT", "LLaMA", "T5", "Other Model"],
