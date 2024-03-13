@@ -31,7 +31,7 @@ fined_taxonomy = {
         ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
         ["KBS", "Knowledge-Based Systems", "Knowl. Based Syst."],
         ["Psychological review", "Psychological Review", "Psychological Review"],
-        ["Psychonomic Bulletin \& Review", "Psychonomic Bulletin \& Review", "Psychonomic Bulletin \& Review"],
+        ["Psychonomic Bulletin and Review", "Psychonomic Bulletin and Review", "Psychonomic Bulletin and Review"],
         ["The Oxford Handbook of Thinking and Reasoning", "The Oxford Handbook of Thinking and Reasoning", "The Oxford Handbook of Thinking and Reasoning",]],
 
     "Preprint": ["arXiv", "CoRR"],
