@@ -15,6 +15,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/SIGIR-2-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./README.md#sigir)
 - [![](https://img.shields.io/badge/LOUHI@EACL-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./README.md#louhi@eacl)
 - [![](https://img.shields.io/badge/Psychological_review-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./README.md#psychological-review)
+- [![](https://img.shields.io/badge/The_Oxford_Handbook_of_Thinking_and_Reasoning-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./README.md#the-oxford-handbook-of-thinking-and-reasoning)
 - [![](https://img.shields.io/badge/arXiv-7-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./README.md#arxiv)
 ## Hyperlink 
  - [Overview](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./)
@@ -135,6 +136,11 @@ Jimmy Lin* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/
 
 - [![](https://img.shields.io/badge/Psychological_review-2015-blue)](https://psycnet.apa.org/record/2015-45017-003) [**An improved probabilistic account of counterfactual reasoning.**](https://psycnet.apa.org/record/2015-45017-003) , <br> by *Lucas, Christopher G and Kemp, Charles* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L475-L491)<br> ```When people want to identify the causes of an event, assign credit or blame, or learn from their mistakes, they often reflect on how things could have gone differently. In this kind of reasoning, one considers a counterfactual world in which some events are different from their real-world counterparts and considers what else would have changed. Researchers have recently proposed several probabilistic models that aim to capture how people do (or should) reason about counterfactuals. We present a new model and show that it accounts better for human inferences than several alternative models. Our model builds on the work of Pearl (2000), and extends his approach in a way that accommodates backtracking inferences and that acknowledges the difference between counterfactual interventions and counterfactual observations. We present 6 new experiments and analyze data from 4 experiments carried out by Rips (2010), and the results suggest that the new model provides an accurate account of both mean human judgments and the judgments of individuals.(PsycINFO Database Record (c) 2016 APA, all rights reserved)
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```lucas2015improved```<br>
+
+## The Oxford Handbook of Thinking and Reasoning
+
+- [![](https://img.shields.io/badge/The_Oxford_Handbook_of_Thinking_and_Reasoning-2012-blue)](https://doi.org/10.1093/oxfordhb/9780199734689.001.0001) [**Thinking and Reasoning: A Reader's Guide**](https://doi.org/10.1093/oxfordhb/9780199734689.001.0001) , <br> by *Holyoak, Keith J. and Morrison, Robert G.* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L427-L433)<br> ```This introductory article begins by asking: What is thinking? It looks at the various meanings of the concept in linguistic and philosophical terms. It summarizes the history of the academic study of thinking and reasoning. Finally it gives an outline of the six parts of the book which look in turn at general approaches to thinking and reasoning; inductive, deductive, and abductive reasoning; problem solving, intelligence, and creative thinking; judgment and decision making; ontogeny, phylogeny, language, and culture; and finally modes of thinking.
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```9780199734689```<br>
 
 ## arXiv
 
