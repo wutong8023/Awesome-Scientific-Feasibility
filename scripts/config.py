@@ -29,7 +29,10 @@ fined_taxonomy = {
         ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
          "{IEEE} Trans. Neural Networks Learn. Syst."],
         ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
-        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
+        ["KBS", "Knowledge-Based Systems", "Knowl. Based Syst."],
+        ["Psychological review", "Psychological Review", "Psychological Review"],
+        ["Psychonomic Bulletin \& Review", "Psychonomic Bulletin \& Review", "Psychonomic Bulletin \& Review"],
+        ["Handbook of Thinking and Reasoning", "The Oxford Handbook of Thinking and Reasoning", "The Oxford Handbook of Thinking and Reasoning",]],
 
     "Preprint": ["arXiv", "CoRR"],
 
@@ -41,7 +44,7 @@ fined_taxonomy = {
     "Application Area": ["Material Science", "Artificial Intelligence", "Quantum Computing", "Biomedical", "Other Area"],
 
     # 3: Research Question
-    "RQs": {"Multi-Agent Cooperation", "Others RQs"},
+    "RQs": {"Multi-Agent Cooperation", "Inductive Reasoning", "Counterfactual Reasoning", "Others RQs"},
 
     # 4: Backbone Model
     "Foundation Model": ["ChatGPT", "LLaMA", "T5", "Other Model"],

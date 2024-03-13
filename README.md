@@ -14,6 +14,7 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/EACL-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#eacl)
 - [![](https://img.shields.io/badge/SIGIR-2-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#sigir)
 - [![](https://img.shields.io/badge/LOUHI@EACL-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#louhi@eacl)
+- [![](https://img.shields.io/badge/Psychological_review-1-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#psychological-review)
 - [![](https://img.shields.io/badge/arXiv-7-blue)](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./README.md#arxiv)
 ## Hyperlink 
  - [Overview](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/SciFy4all/./)
@@ -129,6 +130,11 @@ Xueguang Ma and
 Rodrigo Frassetto Nogueira and
 Jimmy Lin* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L4-L9)<br> ```We propose a system called VerT5erini that exploits T5 for abstract retrieval, sentence selection, and label prediction, which are three critical sub-tasks of claim verification. We evaluate our pipeline on SciFACT, a newly curated dataset that requires models to not just predict the veracity of claims but also provide relevant sentences from a corpus of scientific literature that support the prediction. 
 ```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```PradeepMNL21```<br>
+
+## Psychological review
+
+- [![](https://img.shields.io/badge/Psychological_review-2015-blue)](https://psycnet.apa.org/record/2015-45017-003) [**An improved probabilistic account of counterfactual reasoning.**](https://psycnet.apa.org/record/2015-45017-003) , <br> by *Lucas, Christopher G and Kemp, Charles* [[bib]](https://github.com/wutong8023/Awesome-Scientific-Feasibility/blob/master/./bibtex.bib#L478-L494)<br> ```When people want to identify the causes of an event, assign credit or blame, or learn from their mistakes, they often reflect on how things could have gone differently. In this kind of reasoning, one considers a counterfactual world in which some events are different from their real-world counterparts and considers what else would have changed. Researchers have recently proposed several probabilistic models that aim to capture how people do (or should) reason about counterfactuals. We present a new model and show that it accounts better for human inferences than several alternative models. Our model builds on the work of Pearl (2000), and extends his approach in a way that accommodates backtracking inferences and that acknowledges the difference between counterfactual interventions and counterfactual observations. We present 6 new experiments and analyze data from 4 experiments carried out by Rips (2010), and the results suggest that the new model provides an accurate account of both mean human judgments and the judgments of individuals.(PsycINFO Database Record (c) 2016 APA, all rights reserved)
+```</details><details><summary><i class="fa-solid fa-bars"></i></summary><pre>```lucas2015improved```<br>
 
 ## arXiv
 
